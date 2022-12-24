@@ -6,3 +6,8 @@ It is noted that the purpose of this project is not trying to reach the baseline
 
 ![Image](https://qa.fastforwardlabs.com/images/post1/QAworkflow.png "MarineGEO logo")
 
+## Document Retriever
+
+## Paragraph Retriever
+
+## Document Reader
